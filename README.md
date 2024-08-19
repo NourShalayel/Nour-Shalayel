@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nour Shalayel</h1>
-<h3 align="center">A passionate Software Developer from Palestine</h3>
+<h1 style="text-align: left">Hi 👋, I'm Nour Shalayel</h1>
+<h3 style="text-align: left""> Software Developer from Palestine</h3>
 
-Highly skilled Software Engineer with a strong background in backend development, specializing in Node.js and TypeScript. Proficient in leveraging cloud technologies (AWS, Azure) to build scalable and efficient applications.Experienced in designing and implementing robust integration solutions, ensuring seamless connectivity between systems. Committed to continuous learning and professional growth. Currently enhancing technical and behavioral skills , ready to bring expertise and innovative solutions to your projects
+A passionate Software Developer , Highly skilled Software Engineer with a strong background in backend development, specializing in Node.js and TypeScript. Proficient in leveraging cloud technologies (AWS, Azure) to build scalable and efficient applications.Experienced in designing and implementing robust integration solutions, ensuring seamless connectivity between systems. Committed to continuous learning and professional growth. Currently enhancing technical and behavioral skills , ready to bring expertise and innovative solutions to your projects
 
 - 🔭 I’m currently working on **Reachware , Manara**
 
