@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi <img src="your-waving-hand-gif-url" alt="waving hand" width="30"/> I'm Nour Shalayel</h1>
+<h1 style="text-align: left">Hi 👋, I'm Nour Shalayel</h1>
 <h2 style="text-align: left""> Software Developer from Palestine</h2>
 <img align = "right" alt="coding" width = "200"  hight = "200 "src="https://i.kym-cdn.com/photos/images/original/002/387/691/ff8.gif">
 
