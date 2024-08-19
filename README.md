@@ -1,7 +1,6 @@
 <h1 style="text-align: left">Hi 👋, I'm Nour Shalayel</h1>
 <h3 style="text-align: left""> Software Developer from Palestine</h3>
-
-<div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align = "right" alt="coding" width = "400" src="https://i.kym-cdn.com/photos/images/original/002/387/691/ff8.gif">
 
 A passionate Software Developer , Highly skilled Software Engineer with a strong background in backend development, specializing in Node.js and TypeScript. Proficient in leveraging cloud technologies (AWS, Azure) to build scalable and efficient applications.Experienced in designing and implementing robust integration solutions, ensuring seamless connectivity between systems. Committed to continuous learning and professional growth. Currently enhancing technical and behavioral skills , ready to bring expertise and innovative solutions to your projects
 
