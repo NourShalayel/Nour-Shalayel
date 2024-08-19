@@ -1,5 +1,26 @@
-<h1 style="text-align: left">Hi 👋, I'm Nour Shalayel</h1>
-<h3 style="text-align: left""> Software Developer from Palestine</h3>
+<h1 style="text-align: left;">
+  Hi <span class="wave">👋</span>, I'm Nour Shalayel
+</h1>
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 1s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+<h2 style="text-align: left""> Software Developer from Palestine</h2>
 <img align = "right" alt="coding" width = "200"  hight = "200 "src="https://i.kym-cdn.com/photos/images/original/002/387/691/ff8.gif">
 
 Highly skilled Software Engineer with a strong background in backend development, specializing in Node.js and TypeScript. Proficient in leveraging cloud technologies (AWS, Azure) to build scalable and efficient applications.Experienced in designing and implementing robust integration solutions, ensuring seamless connectivity between systems. Committed to continuous learning and professional growth. Currently enhancing technical and behavioral skills , ready to bring expertise and innovative solutions to your projects
