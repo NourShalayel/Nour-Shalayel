@@ -1,8 +1,8 @@
-<h3 align="left">Hi 👋! My name is Nour Shalayel and I'm a Software Developer from Palestine</h3>
+<h2 align="left">Hi 👋! My name is Nour Shalayel and I'm a Software Developer from Palestine</h2>
 
 ###
 
-<h6 align="left">Highly skilled Software Engineer with a strong background in backend development, specializing in Node.js and TypeScript. Proficient in leveraging cloud technologies (AWS, Azure) to build scalable and efficient applications.Experienced in designing and implementing robust integration solutions, ensuring seamless connectivity between systems. Committed to continuous learning and professional growth. Currently enhancing technical and behavioral skills , ready to bring expertise and innovative solutions to your projects<br><br>- 🔭 I’m currently working on **Reachware , Manara**<br><br>- 🌱 I’m currently learning **React js ,**<br><br>- 💬 Ask me about **Node js , Nest js , Problem Solving , Cloud Computing**<br><br>- 📫 How to reach me **noorshalayel@gmail.com**</h6>
+<h5 align="left">Highly skilled Software Engineer with a strong background in backend development, specializing in Node.js and TypeScript. Proficient in leveraging cloud technologies (AWS, Azure) to build scalable and efficient applications.Experienced in designing and implementing robust integration solutions, ensuring seamless connectivity between systems. Committed to continuous learning and professional growth. Currently enhancing technical and behavioral skills , ready to bring expertise and innovative solutions to your projects<br><br>- 🔭 I’m currently working on **Reachware , Manara**<br><br>- 🌱 I’m currently learning **React js ,**<br><br>- 💬 Ask me about **Node js , Nest js , Problem Solving , Cloud Computing**<br><br>- 📫 How to reach me **noorshalayel@gmail.com**</h5>
 
 ###
 
